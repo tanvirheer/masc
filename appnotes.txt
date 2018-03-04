@@ -1,8 +1,11 @@
-test 
-//Description
+###################################################################################
+MASC LAB RESEARCH
+AUTHOR: TANVIR HEER
+###################################################################################
+
+\textbf{March 4th, 2018}:
 
 Target Lgraph synthesis infrastructure ->open source FPGA FLOW -> FPGA Synthesis.
-
 
 open source FPGA Flow. (Might be simple).
 
@@ -11,7 +14,6 @@ graph flow -> making it work with Amazon cloud using their open source flow
 This will allow people to use our open flow source and synthesis on the amazon cloud
 
 Xilinx FPGA Vivado (LAB) - Lgraph -> interface with amazon and trying to make work.
-
 
 This will allow to run placement and routing in the cloud.
 
